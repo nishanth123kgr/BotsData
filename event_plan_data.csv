@@ -1,0 +1,31 @@
+EventType,VendorCategory,SuggestedVendors,AvgCostUSD,PlanningTips,LeadTimeWeeks
+Wedding,Venue,Grand Ballroom; Riverside Gardens; Mountain View Estate,8000,"Book popular wedding venues 9-12 months in advance; confirm guest count early.",48
+Wedding,Caterer,Gourmet Catering Co; Bella Chef Services,6000,"Schedule a menu tasting and finalize guest count at least 3-4 months before; discuss dietary restrictions early.",16
+Wedding,Photographer,Timeless Moments Photography; SnapShot Studios,3000,"Review photographer portfolios online and book 6-9 months before to secure your date.",36
+Wedding,DJ,SoundWave DJs; Party Pulse Entertainment,1500,"Discuss music preferences early; book entertainment 4-6 months ahead.",24
+Wedding,Florist,Blossom Florals; Petal & Stem Designs,3000,"Share your wedding color palette; meet florist 2-3 months ahead to finalize arrangements.",12
+Wedding,Officiant,Local Wedding Ministry; Unity Ceremonies,500,"Secure your officiant 6-8 months in advance; discuss ceremony details early.",32
+Conference,Venue,Downtown Convention Center; City Conference Hotel,15000,"Reserve conference venues 6-12 months in advance; check if AV equipment and Wi-Fi are included.",52
+Conference,Caterer,Executive Banquets; Savory Meals Catering,7000,"Plan menu options for various dietary needs; book catering 3-6 months ahead.",24
+Conference,AV Equipment,TechPro A/V; Screen & Sound Systems,10000,"Arrange AV equipment and technical support 3-6 months ahead; schedule rehearsals before the event.",16
+Conference,Speaker,Industry Experts; Motivational Keynotes Inc.,5000,"Secure keynote speakers 6-9 months early; provide event details and expectations in advance.",32
+Conference,Event Planner,Elite Event Planners; Summit Coordinators,8000,"Hire an event planner 6-9 months before; they can manage vendors, permits, and scheduling.",32
+Conference,Registration,RegisTrack Solutions; On-site Registration Services,2000,"Set up online registration 4-6 months before; this streamlines check-in and attendance tracking.",16
+Birthday,Venue,Party Place Banquet Hall; Fun Zone Play Center,1500,"Book party venues 2-3 months ahead, especially for weekends; confirm party size and amenities early.",12
+Birthday,Cake,Sweet Treat Bakery; Custom Cakes by Cindy,500,"Order custom cakes 4-6 weeks in advance; discuss flavors and decorations early.",6
+Birthday,Entertainment,Magic Shows by Max; Bounce House Rentals,600,"Hire entertainers (magicians, clowns, etc.) 4-8 weeks ahead; confirm performance details.",8
+Birthday,Caterer,Kid-friendly Catering Co; Family Feast Catering,3000,"Book catering 4-6 weeks in advance; ensure the menu is kid-friendly and portion sizes are sufficient.",8
+Birthday,Photographer,Memory Makers Photography; SnapShot Kids,800,"Arrange a photographer 4-6 weeks before; create a shot list for key moments (cake cutting, games).",6
+Corporate,Venue,Corporate Center Hotel; TechPark Conference Facility,10000,"Reserve meeting or banquet spaces 6-12 months ahead; ask about corporate group rates and services.",48
+Corporate,Caterer,Executive Catering Services; Gourmet Corporate Cuisine,6000,"Plan corporate menus 3-4 months out; include coffee breaks and dietary options, finalize count early.",16
+Corporate,AV Equipment,Pro Audio Visual; Event Tech Services,8000,"Arrange professional AV and tech support 3-6 months ahead; conduct a test run before the event.",16
+Corporate,Team Building,TeamUp Events; Corporate Challenge Planners,3000,"Book team-building activities 2-3 months before; tailor activities to your team’s size and goals.",12
+Corporate,Photographer,Corporate Captures Photography; Event Photo Co.,1000,"Hire an event photographer 4-6 weeks ahead; review their portfolio and outline key moments to capture.",6
+Corporate,Promotional Gifts,LogoWorks Gifts; Corporate Swag Co.,1000,"Order branded giveaways 1-2 months ahead; confirm logo files and delivery dates early.",8
+Corporate,Security,SecureGuard Services; Event Security Inc.,2500,"Arrange security personnel 1-2 months in advance; ensure they understand venue layout and event schedule.",8
+Festival,Venue,Outdoor Park Grounds; City Amphitheater,20000,"Secure permits and book 6-12 months ahead; consider parking and crowd control logistics.",52
+Festival,Food Vendors,Street Eats; Festival Flavors,8000,"Invite food trucks 3-6 months ahead; confirm health code compliance and insurance.",24
+Festival,Stage Setup,StagePro Rentals; Light & Sound Crew,12000,"Coordinate staging and lighting 2-3 months in advance; schedule rehearsal day.",12
+Festival,Merchandise,Print & Sell Co.; FestMerch Designs,5000,"Design and print merchandise 1-2 months in advance; estimate inventory based on expected attendance.",8
+Festival,Volunteers,Local Volunteers Network; University Clubs,0,"Recruit and assign roles 2 months before the event; offer training and incentives.",8
+Festival,Security,EventShield; City Police Coordination,4000,"Plan security with local officials 2-3 months ahead; ensure permit coverage and crowd control strategy.",12
